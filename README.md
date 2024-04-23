@@ -1,4 +1,4 @@
-# Gerenciador de Consulta **<img width="50" height="50" src="https://img.icons8.com/color/48/error--v1.png" alt="error--v1"/>WIP<img width="50" height="50" src="https://img.icons8.com/color/48/error--v1.png" alt="error--v1"/>**
+# Gerenciador de Consulta (Query manager) **<img width="50" height="50" src="https://img.icons8.com/color/48/error--v1.png" alt="error--v1"/>WIP<img width="50" height="50" src="https://img.icons8.com/color/48/error--v1.png" alt="error--v1"/>**
 Um aplicativo de desktop desenvolvido para gerenciar consultas médicas. Ele permite agendar, atualizar, anexar exames e enviar e-mails com exames anexados.
 
 ## Começando 🚀
