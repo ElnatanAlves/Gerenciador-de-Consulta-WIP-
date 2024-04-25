@@ -47,11 +47,13 @@ python Task_UX.py**
 
 
 
+
 ## ✒️ Autores
 Até o presente momento o projeto dispõe de apenas um desenvolvedor.
 <li>Dev - Trabalho Inicial - Elnatan A.</li>
 
-### Capturas de telas do projeto
+
+## Capturas de telas do projeto
 <img src="https://github.com/ElnatanAlves/Gerenciador-de-Consulta-WIP-/assets/156375539/7881774b-6869-4731-af44-750e0c624ce0" alt="Modelo da imagem">
 <img src="https://github.com/ElnatanAlves/Gerenciador-de-Consulta-WIP-/assets/156375539/663c8759-84a0-47d2-9129-4f90ae12f3ef" alt="Modelo da imagem com anexo de e-mail">
 <img src="https://github.com/ElnatanAlves/Gerenciador-de-Consulta-WIP-/assets/156375539/1d7eb3e8-cea1-4637-8d51-75679d7cfe8b" alt="Modelo de Imagem">
