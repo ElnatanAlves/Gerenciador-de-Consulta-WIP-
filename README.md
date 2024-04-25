@@ -1,11 +1,14 @@
 # Gerenciador de Consulta (Query manager) **<img width="50" height="50" src="https://img.icons8.com/color/48/error--v1.png" alt="error--v1"/>WIP<img width="50" height="50" src="https://img.icons8.com/color/48/error--v1.png" alt="error--v1"/>**
 Um aplicativo de desktop desenvolvido para gerenciar consultas médicas. Ele permite agendar, atualizar, anexar exames e enviar e-mails com exames anexados.
 
+
 ## Começando 🚀
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
+
 ### Pré-requisitos 📋
 Você precisará ter o Python instalado em seu sistema, bem como seus modulos e dependencias. **(IDE PyCharm e Conda 100% / VSCODE 95% PARCIAL COMPATIBILITY MODULES MODE.)**
+
 
 ### Instalação 🔧
 Clone o repositório e execute o seguinte comando na raiz do projeto:
@@ -14,6 +17,7 @@ Clone o repositório e execute o seguinte comando na raiz do projeto:
 python Task_UX.py**
 
 Isso iniciará a interface gráfica do Gerenciador de Consultas Médicas.
+
 
 ### Executando os testes ⚙️
 Para executar os testes, você precisará ter o Python e a biblioteca `unittest` instalados em seu sistema. A biblioteca `unittest` é uma biblioteca padrão do Python, então você não precisa instalá-la separadamente.
@@ -27,6 +31,7 @@ Siga os passos abaixo para executar os testes unitários:
 **```bash
 python Task_UX.py**
 
+
 ### Construído com 🛠️
 <ul style="list-style-type: disc; text-align: justify;">
     <li style="margin-bottom: 10px;">Python: Linguagem de programação utilizada para desenvolver o aplicativo.</li>
@@ -34,6 +39,7 @@ python Task_UX.py**
     <li style="margin-bottom: 10px;">Tkinter: Biblioteca para criação de interfaces gráficas de usuário (GUI) em Python.</li>
     <li style="margin-bottom: 10px;">SMTPLib: Biblioteca para envio de e-mails através do protocolo SMTP.</li>
 </ul>
+
 
 ### ✒️ Autores
 Até o presente momento o projeto dispõe de apenas um desenvolvedor.
