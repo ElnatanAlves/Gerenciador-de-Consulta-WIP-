@@ -7,12 +7,12 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 
 
-### Pré-requisitos 📋
+## Pré-requisitos 📋
 Você precisará ter o Python instalado em seu sistema, bem como seus modulos e dependencias. **(IDE PyCharm e Conda 100% / VSCODE 95% PARCIAL COMPATIBILITY MODULES MODE.)**
 
 
 
-### Instalação 🔧
+## Instalação 🔧
 Clone o repositório e execute o seguinte comando na raiz do projeto:
 
 **```bash
@@ -22,7 +22,7 @@ Isso iniciará a interface gráfica do Gerenciador de Consultas Médicas.
 
 
 
-### Executando os testes ⚙️
+## Executando os testes ⚙️
 Para executar os testes, você precisará ter o Python e a biblioteca `unittest` instalados em seu sistema. A biblioteca `unittest` é uma biblioteca padrão do Python, então você não precisa instalá-la separadamente.
 
 Siga os passos abaixo para executar os testes unitários:
@@ -36,7 +36,7 @@ python Task_UX.py**
 
 
 
-### Construído com 🛠️
+## Construído com 🛠️
 <ul style="list-style-type: disc; text-align: justify;">
     <li style="margin-bottom: 10px;">Python: Linguagem de programação utilizada para desenvolver o aplicativo.</li>
     <li style="margin-bottom: 10px;">SQLite3: Sistema de gerenciamento de banco de dados que armazena as consultas.</li>
@@ -47,7 +47,7 @@ python Task_UX.py**
 
 
 
-### ✒️ Autores
+## ✒️ Autores
 Até o presente momento o projeto dispõe de apenas um desenvolvedor.
 <li>Dev - Trabalho Inicial - Elnatan A.</li>
 
